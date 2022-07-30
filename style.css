@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+   
+}
+.container{
+    width: 100%;
+    height: 754px;
+    background-color: rgb(157, 161, 165);
+}
+
+
+
+.heading{
+    font-size: 40px;
+    background-color: lightslategray;
+    
+    margin: 0;
+    text-align: center;
+}
+.full-form{
+    padding-top: 40px;
+    background-color: rgb(157, 161, 165);
+    padding-left: 25%;
+    
+}
+.input-feild{
+    width: 250px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.name-feild{
+    background-color: lightslategray;
+    padding-left :10px;
+    border-radius: 40px;
+    width: 357px;
+    margin-top: 40px;
+    
+    font-weight: 400px;
+    
+    
+}
+.email-feild{
+    background-color: lightslategray;
+    padding-left: 10px;
+    border-radius: 40px;
+    width: 357px;
+    margin-top: 30px;
+
+    font-weight: 400px;
+    
+}
+.file-feild{
+    background-color: lightslategray;
+    padding-left: 10px;
+    border-radius: 50px;
+    width: 396px;
+    margin-top: 30px; 
+    
+    font-weight: 400px;
+}
+.textarea-feild{
+    background-color: aliceblue;
+    width: 400px;
+    height: 200px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+.textarea-p{
+    padding-left: 20px;
+     font-weight: 400px;
+}
+.comment{
+    
+    background-color: lightslategray;
+    width: 500px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.btn{
+    margin-top: 30px;
+    padding: 15px 50px;
+    border-radius: 20px;
+    background-color: lightslategray;
+    border: none;
+    font-weight: 400px;
+}
